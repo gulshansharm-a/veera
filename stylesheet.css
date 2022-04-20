@@ -1,0 +1,15 @@
+.buttonsize{
+    background-color: #ccd8cd; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 16px;
+    justify-content: space-evenly;
+}
+#button1
+{
+    text-align: center;
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+table, th, td {
+  border: 2px double black;
+  text-align: center;
+  padding:30px;
+  color="white";
+}
+body {
+background: rgba(0, 128, 128, 0.5)
+}
+h1 {
+  text-shadow: 2px 2px grey;
+  text-align: center;
+}
